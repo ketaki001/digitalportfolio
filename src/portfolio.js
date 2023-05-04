@@ -79,7 +79,7 @@ https://fontawesome.com/icons?d=gallery */
     
     {
       skillName: "Hadoop",
-      fontAwesomeClassname: "<a href="https://iconscout.com/icons/hadoop" target="_blank">Free Hadoop Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>"
+      fontAwesomeClassname: "<a href="fab fa-hadoop"
     },
     {
       skillName: "npm",
