@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/ketaki001",
   linkedin: "https://www.linkedin.com/in/ketaki-mankar-8680041aa/",
   gmail: "mankarketaki2001@gmail.com",
-  Twitter: "https://medium.com/@saadpasta",
+  Twitter: "https://twitter.com/ketaki_mankar",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
