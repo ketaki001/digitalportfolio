@@ -47,7 +47,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY COMPUTER ENGINEERING WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY COMPUTER ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Logical and organized individual with a strong foundation in software engineering"
