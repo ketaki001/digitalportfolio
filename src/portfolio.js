@@ -76,11 +76,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
    
-    
-    {
-      skillName: "Hadoop",
-      fontAwesomeClassname: "<a href="fab fa-hadoop"
-    },
+ 
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
