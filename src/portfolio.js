@@ -50,9 +50,9 @@ const skillsSection = {
   subTitle: "CRAZY COMPUTER ENGINEERING WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Logical and organized individual with a strong foundation in software engineering"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Proficient in DATA SCIENCE, C, C++, PYTHON, JAVASCRIPT, Dot Net, and SQL through multiple projects during academics."),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
