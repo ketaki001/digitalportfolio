@@ -78,8 +78,8 @@ https://fontawesome.com/icons?d=gallery */
    
  
     {
-      skillName: "npm",
-       fontAwesomeClassname: "src/assets/images/apache_hadoop_logo_icon_169586.png"
+      skillName: "Hadoop",
+       fontAwesomeClassname: "fa-solid fa-elephant"
     },
     {
       skillName: "sql-database",
