@@ -79,7 +79,7 @@ https://fontawesome.com/icons?d=gallery */
  
     {
       skillName: "Hadoop",
-       fontAwesomeClassname: "fa-regular fa-elephant"
+       fontAwesomeClassname: "fa-duotone fa-elephant" 
     },
     {
       skillName: "sql-database",
