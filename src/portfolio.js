@@ -149,7 +149,7 @@ const workExperiences = {
     {
       role: "Software Development Engineer Intern",
       company: "SteepGraph Systems",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/steep.jpeg"),
       date: "Jan 2023 - Present",
       desc: "Skills:",
       descBullets: [
@@ -162,7 +162,7 @@ const workExperiences = {
     {
       role: "AI ML Intern",
       company: "Critical AI",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/AI.png"),
       date: "June 2022 – July 2022",
       desc: " Project: Developed Aircraft Identification Using Mchine Learning",
       descBullets: [
@@ -180,7 +180,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Web Development",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/spark.jpeg"),
       date: "June 2021 – July 2021",
       desc: "Project: Developed The Banking System",
       descBullets: [
