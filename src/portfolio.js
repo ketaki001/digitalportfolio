@@ -147,29 +147,48 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Software Development Engineer Intern",
+      company: "SteepGraph Systems",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "Jan 2023 - Present",
+      desc: "Skills:",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Aras Innovator",
+        "C#",
+        "JavaScript",
+        "SQL"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
+      role: "AI ML Intern",
+      company: "Critical AI",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "June 2022 – July 2022",
+      desc: " Project: Developed Aircraft Identification Using Mchine Learning",
+      descBullets: [
+      "Internship at Critical AI Private Limited in Artificial Intelligence and Machine Learning.",
+      "Key project: Aircraft identification using [specific method/algorithm].",
+      "Explored various sampling methods for meaningful insights from the dataset.",
+      "Employed data normalization techniques for analysis.",
+      "Utilized IBM's SPPS software for dataset creation and effective work.",
+      "Cleaned and preprocessed the data for quality and reliability and applied techniques like Winsorization to handle outliers.",
+      "Performed essential data operations such as importing and normalization.",
+      "Studied variation between different aircraft identification models."
+        
+       ]
     },
     {
       role: "Software Engineer Intern",
-      company: "Airbnb",
+      company: "Web Development",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "June 2021 – July 2021",
+      desc: "Project: Developed The Banking System"
+      descBullets: [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "MySQL"
+      ]
     }
   ]
 };
