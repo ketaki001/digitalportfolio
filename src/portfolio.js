@@ -99,7 +99,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "MIT ACADEMY OF ENGINEERING",
-      logo: require("./assets/images/MIT.png"),
+      logo: require("./assets/images/mit_aoe.png"),
       subHeader: "Bachelor of Technology in Computer Engineering",
       duration: "2019-2023",
       desc: "Participated in the various college events and published a research paper.",
