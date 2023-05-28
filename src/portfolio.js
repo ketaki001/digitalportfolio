@@ -107,7 +107,7 @@ const educationInfo = {
     },
     {
       schoolName: "Abhishek Vidyalayam",
-      logo: require("./assets/images/HSC_LOGO.png"),
+      logo: require("./assets/images/HSC_LOGO.jpg"),
       subHeader: "HSC",
       duration: "2018-2019",
     },
