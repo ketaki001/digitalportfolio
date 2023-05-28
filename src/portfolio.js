@@ -182,7 +182,7 @@ const workExperiences = {
       company: "Web Development",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "June 2021 – July 2021",
-      desc: "Project: Developed The Banking System"
+      desc: "Project: Developed The Banking System",
       descBullets: [
         "HTML",
         "CSS",
