@@ -147,9 +147,9 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Development Engineer Intern",
+      role: "Software Development Engineer",
       company: "SteepGraph Systems",
-      companylogo: require("./assets/images/steep.jpeg"),
+      companylogo: require("./assets/images/Steep1.png"),
       date: "Jan 2023 - Present",
       desc: "Skills:",
       descBullets: [
@@ -160,9 +160,9 @@ const workExperiences = {
       ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Web Development",
-      companylogo: require("./assets/images/spark.jpeg"),
+      role: "Web Developer",
+      company: "Spark Foundation",
+      companylogo: require("./assets/images/spark1.jpg"),
       date: "June 2021 – July 2021",
       desc: "Project: Developed The Banking System",
       descBullets: [
@@ -175,7 +175,7 @@ const workExperiences = {
     {
       role: "AI ML Intern",
       company: "Critical AI",
-      companylogo: require("./assets/images/AI.png"),
+      companylogo: require("./assets/images/AI1.png"),
       date: "June 2022 – July 2022",
       desc: " Project: Developed Aircraft Identification Using Mchine Learning",
       descBullets: [
