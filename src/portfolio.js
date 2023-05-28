@@ -160,6 +160,19 @@ const workExperiences = {
       ]
     },
     {
+      role: "Software Engineer Intern",
+      company: "Web Development",
+      companylogo: require("./assets/images/spark.jpeg"),
+      date: "June 2021 – July 2021",
+      desc: "Project: Developed The Banking System",
+      descBullets: [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "MySQL"
+      ]
+    },
+    {
       role: "AI ML Intern",
       company: "Critical AI",
       companylogo: require("./assets/images/AI.png"),
@@ -177,19 +190,7 @@ const workExperiences = {
         
        ]
     },
-    {
-      role: "Software Engineer Intern",
-      company: "Web Development",
-      companylogo: require("./assets/images/spark.jpeg"),
-      date: "June 2021 – July 2021",
-      desc: "Project: Developed The Banking System",
-      descBullets: [
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "MySQL"
-      ]
-    }
+    
   ]
 };
 
