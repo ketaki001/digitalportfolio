@@ -248,7 +248,7 @@ const bigProjects = {
     },
     {
        projectName: "Sentiment Analysis on Twitter",
-      projectDesc: "Implemented sentiment analysis on Twitter data.Utilized the BERT model for accurate emotion classification.Determined whether the data had positive, negative, or neutral emotions.Applied natural language processing techniques for text analysis.Developed a system to analyze sentiment at scale for Twitter data.",
+      projectDesc: "Implemented sentiment analysis on Twitter data. Utilized the BERT model for accurate emotion classification. Determined whether the data had positive, negative, or neutral emotions. Applied natural language processing techniques for text analysis. Developed a system to analyze sentiment at scale for Twitter data.",
      
     }
   ],
