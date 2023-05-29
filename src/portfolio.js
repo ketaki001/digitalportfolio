@@ -149,7 +149,7 @@ const workExperiences = {
     {
       role: "Software Development Engineer",
       company: "SteepGraph Systems",
-      companylogo: require("./assets/images/Steep2.png"),
+      companylogo: require("./assets/images/steep2.png"),
       date: "Jan 2023 - Present",
       desc: "Skills:",
       descBullets: [
@@ -169,10 +169,12 @@ const workExperiences = {
       date: "June 2021 – July 2021",
       desc: "Project: Developed The Banking System",
       descBullets: [
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "MySQL"
+        "Key Skills: HTML,CSS,Bootstrap,MySQL",
+        "Developed a customer transaction system with money transactions, history, and balance features.",
+        "Utilized HTML/CSS for frontend design and MySQL as the backend database.",
+        "Built a dynamic system fetching real-time data from the backend.",
+        "Ensured data security and integrity with backend validation.",
+        "Designed a user-friendly interface for seamless experience."
       ]
     },
     {
