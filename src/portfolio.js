@@ -210,10 +210,11 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Café Management System",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "List of the projects that I developed with my team!",
   projects: [
     {
+       projectName: "Café Management System:",
       projectDesc: "Technology Used: Dot Net,SQL. This application manages the information about different dishes served at the cafe. This application also generates the bill for the customers in pdf format",
       footerLink: [
         {
