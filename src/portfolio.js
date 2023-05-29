@@ -153,10 +153,9 @@ const workExperiences = {
       date: "Jan 2023 - Present",
       desc: "Skills:",
       descBullets: [
-        "Aras Innovator",
-        "C#",
-        "JavaScript",
-        "SQL"
+        "Key Skills: Aras Innovator,C#,JavaScript,SQL",
+        "Product Lifecycle Management (PLM) for effective management and optimization of product development processes throughout their lifecycle."
+        
       ]
     },
     {
