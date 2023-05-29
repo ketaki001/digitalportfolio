@@ -214,12 +214,13 @@ const bigProjects = {
   subtitle: "List of the projects that I developed with my team!",
   projects: [
     {
-       projectName: "Café Management System",
-      projectDesc: "Technology Used: Dot Net,SQL. This application manages the information about different dishes served at the cafe. This application also generates the bill for the customers in pdf format",
+       projectName: "Book Recommendation system",
+      projectDesc: "Technology Used: HTML, CSS, JS, DJANGO, Machine Learning, Deep Learning. The aim of this project is to build a book recommendation system for all the book lovers using machine learning algorithms.It would help the user determine good content by predicting the users rating of each item and popular searches.
+",
       footerLink: [
         {
-          name: "Visit Repository",
-          url: "https://github.com/ketaki001/Cafe-Management-System"
+          name: "View Research Paper",
+          url: "https://ieeexplore.ieee.org/document/100997"
         }
         //  you can add extra buttons here.
       ]
