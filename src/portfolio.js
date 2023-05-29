@@ -295,7 +295,13 @@ const achievementSection = {
   display: true // Set false to hide this section, defaults to true
 };
 
-
+const contactInfo = {
+  title: emoji("Contact Me ☎️"),
+  subtitle:
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
+  number: "+91-7620675098",
+  email_address: "mankarketaki2001@gmail.com"
+};
 
 // Twitter Section
 
@@ -318,6 +324,7 @@ export {
   openSource,
   bigProjects,
   achievementSection,
+  contactInfo,
   twitterDetails,
   isHireable
 };
