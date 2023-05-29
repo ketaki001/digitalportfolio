@@ -318,7 +318,6 @@ export {
   openSource,
   bigProjects,
   achievementSection,
-  contactInfo,
   twitterDetails,
   isHireable
 };
