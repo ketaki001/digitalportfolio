@@ -214,18 +214,18 @@ const bigProjects = {
   subtitle: "List of the projects that I developed with my team!",
   projects: [
     {
-       projectName: "Café Management System:",
-      projectDesc: "Technology Used: Dot Net,SQL. This application manages the information about different dishes served at the cafe. This application also generates the bill for the customers in pdf format",
+       projectName: "Vehicle Detection and classification System",
+      projectDesc: "Web application for keeping track of vehicles on the road and classifying them according to the vehicle type. It is developed using Computer Vision techniques and deployed on Streamlit cloud",
       footerLink: [
         {
           name: "Visit Repository",
-          url: "https://github.com/ketaki001/Cafe-Management-System"
+          url: "https://github.com/ketaki001/Object-Detecction"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-       projectName: "Café Management System:",
+       projectName: "Café Management System",
       projectDesc: "Technology Used: Dot Net,SQL. This application manages the information about different dishes served at the cafe. This application also generates the bill for the customers in pdf format",
       footerLink: [
         {
