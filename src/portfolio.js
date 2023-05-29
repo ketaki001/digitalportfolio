@@ -210,17 +210,15 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Café Management System",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Technology Used: Dot Net,SQL. This application manages the information about different dishes served at the cafe. This application also generates the bill for the customers in pdf format",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Repository",
+          url: "https://github.com/ketaki001/Cafe-Management-System"
         }
         //  you can add extra buttons here.
       ]
