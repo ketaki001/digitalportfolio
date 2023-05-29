@@ -215,8 +215,7 @@ const bigProjects = {
   projects: [
     {
        projectName: "Book Recommendation system",
-      projectDesc: "Technology Used: HTML, CSS, JS, DJANGO, Machine Learning, Deep Learning. The aim of this project is to build a book recommendation system for all the book lovers using machine learning algorithms.It would help the user determine good content by predicting the users rating of each item and popular searches.
-",
+      projectDesc: "Technology Used: HTML, CSS, JS, DJANGO, Machine Learning, Deep Learning. The aim of this project is to build a book recommendation system for all the book lovers using machine learning algorithms.It would help the user determine good content by predicting the users rating of each item and popular searches.",
       footerLink: [
         {
           name: "View Research Paper",
