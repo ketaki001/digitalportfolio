@@ -149,7 +149,7 @@ const workExperiences = {
     {
       role: "Software Development Engineer",
       company: "SteepGraph Systems",
-      companylogo: require("./assets/images/Steep1.png"),
+      companylogo: require("./assets/images/Steep2.png"),
       date: "Jan 2023 - Present",
       desc: "Skills:",
       descBullets: [
