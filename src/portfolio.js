@@ -154,7 +154,11 @@ const workExperiences = {
       desc: "Skills:",
       descBullets: [
         "Key Skills: Aras Innovator,C#,JavaScript,SQL",
-        "Product Lifecycle Management (PLM) for effective management and optimization of product development processes throughout their lifecycle."
+        "Product Lifecycle Management (PLM) for effective management and optimization of product development processes throughout their lifecycle.",
+        "Developed an XSLT report template for the monthly payroll report's structure and layout.Leveraged C# server-side methods to fetch data from a SQL database.",
+        "Implemented security measures like authentication and access controls for data protection.",
+        "Conducted thorough testing and debugging to resolve any report generation issues.",
+        "Documented the process with instructions for future maintenance and enhancements."
         
       ]
     },
