@@ -225,6 +225,17 @@ const bigProjects = {
       ]
     },
     {
+       projectName: "Café Management System:",
+      projectDesc: "Technology Used: Dot Net,SQL. This application manages the information about different dishes served at the cafe. This application also generates the bill for the customers in pdf format",
+      footerLink: [
+        {
+          name: "Visit Repository",
+          url: "https://github.com/ketaki001/Cafe-Management-System"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/nextuLogo.webp"),
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
