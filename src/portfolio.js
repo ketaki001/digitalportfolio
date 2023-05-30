@@ -276,6 +276,17 @@ const achievementSection = {
       ]
     },
     {
+      title: "M-EXHIBIT 2K22",
+      subtitle:"Won 1st prize in national level project competition",
+      image: require("./assets/images/IEEEE.png"),
+      footerLink: [
+        {
+          name: "View Certificate",
+          image: require("./assets/images/Project_cert.png")
+        }
+      ]
+    },
+    {
       title: "Google Assistant Action",
       subtitle:"Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/googleAssistantLogo.webp"),
