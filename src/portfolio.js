@@ -278,7 +278,7 @@ const achievementSection = {
     {
       title: "Student Council Computer Department",
       subtitle:"Acknowledgement for Cultural Secretary",
-      image: require("./assets/images/IEEEE.png"),
+      image: require("./assets/images/mit_aoe.png"),
       footerLink: [
         {
           name: "Certificate",
