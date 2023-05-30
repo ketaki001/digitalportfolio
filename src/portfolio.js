@@ -268,21 +268,13 @@ const achievementSection = {
       title: "M-EXHIBIT 2K22",
       subtitle:
         "Won 1st prize in national level project competition",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      image: require("./assets/images/IEEE.png"),
       footerLink: [
         {
           name: "View Certificate",
           image: require("./assets/images/Project_cert.png")
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
+       
       ]
     },
     {
