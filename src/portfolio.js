@@ -287,14 +287,18 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle:"Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      title: "AWS",
+      subtitle:"Completed AWS certification",
+      image: require("./assets/images/AWS.jpg"),
+     
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "AWS Foundation",
+          url: "https://www.credly.com/earner/earned/badge/e8ac8461-abf0-48da-b451-28edd89fe5c0"
+        },
+         {
+          name: "AWS Graduate",
+          url: "https://www.credly.com/earner/earned/badge/8b0e2b7d-c9fb-46fc-b925-465bb143bcfd"
         }
       ]
     },
