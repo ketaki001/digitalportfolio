@@ -271,18 +271,18 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Certificate",
-          image: require("./assets/images/Project_cert.png")
+          url: "https://drive.google.com/file/d/1Qv-8xLdRrc4-IkNA23crIXHqnoBPOJsz/view?usp=share_link"
         }
       ]
     },
     {
-      title: "M-EXHIBIT 2K22",
-      subtitle:"Won 1st prize in national level project competition",
+      title: "Student Council Computer Department",
+      subtitle:"Acknowledgement for Cultural Secretary",
       image: require("./assets/images/IEEEE.png"),
       footerLink: [
         {
-          name: "View Certificate",
-          image: require("./assets/images/Project_cert.png")
+          name: "Certificate",
+          url: "https://drive.google.com/file/d/1rxa7X8-cVwnA8IyLLnxkY4dOKD9wN6Q3/view?usp=share_link"
         }
       ]
     },
