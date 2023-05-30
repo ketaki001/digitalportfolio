@@ -300,15 +300,17 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "Microsoft",
+      subtitle: "Done certification provided by microsoft",
+      image: require("./assets/images/micro.png"),
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "DP900", 
+          url: "https://drive.google.com/file/d/1HmC67EpXA_10m7utABte9hUbi7oIoBGL/view?usp=share_link"
+        },
+        {
+          name: "AI900",
+          url: "https://drive.google.com/file/d/1bWzRcJru1ePKagkiZzCzjOd1URrGnUDt/view?usp=share_link"
         }
       ]
     }
