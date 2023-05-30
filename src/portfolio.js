@@ -289,7 +289,7 @@ const achievementSection = {
     {
       title: "AWS",
       subtitle:"Completed AWS certification",
-      image: require("./assets/images/AWS.jpg"),
+      image: require("./assets/images/aws2.jpg"),
      
       footerLink: [
         {
